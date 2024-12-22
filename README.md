@@ -17,16 +17,13 @@ pip install -U pykt-toolkit -i  https://pypi.python.org/simple
 ```
 
 # Dataset
-we use datasets including 
-Assist2009 
-Algebra2005 
-Bridge2006 
-NIPS34 
-ASSISTments2015 
-POJ
-
-Download links:
-
+we use datasets including :
+Assist2009(https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data/skill-builder-data-2009-2010)
+Algebra2005 (https://pslcdatashop.web.cmu.edu/KDDCup/)
+Bridge2006 (https://pslcdatashop.web.cmu.edu/KDDCup/)
+NIPS34 (https://eedi.com/projects/neurips-education-challenge)
+ASSISTments2015 (https://sites.google.com/site/assistmentsdata/datasets/2015-assistments-skill-builder-data)
+POJ(https://drive.google.com/drive/folders/1LRljqWfODwTYRMPw6wEJ_mMt1KZ4xBDk)
 
 ## Data Preparation
 
