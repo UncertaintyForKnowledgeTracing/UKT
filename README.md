@@ -76,5 +76,5 @@ python wandb_predict.py --save_dir=saved_model/YourModelPath
 
 ## Baseline_Evaluation
 
-<div align=center><img src="https://github.com/UncertaintyForKnowledgeTracing/UKT/edit/main/picture/result.png"/></div>
+<div align=center><img src="[https://github.com/UncertaintyForKnowledgeTracing/UKT/edit/main/picture/result.png](https://github.com/UncertaintyForKnowledgeTracing/UKT/blob/main/picture/result.png)"/></div>
 
