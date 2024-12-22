@@ -75,4 +75,5 @@ python wandb_predict.py --save_dir=saved_model/YourModelPath
 --save_dir is the save path of your trained model that you can find in your training log
 
 ## Baseline_Evaluation
+<div align=center><img src="https://github.com/UncertaintyForKnowledgeTracing/UKT/blob/main/picture/result.png"/></div>
 
