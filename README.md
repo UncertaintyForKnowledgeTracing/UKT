@@ -1,5 +1,4 @@
-# UKT
-
+# [Uncertainty-aware Knowledge Tracing]
 
 ## Installation
 
@@ -16,6 +15,11 @@ conda activate ukt
 pip install -U pykt-toolkit -i  https://pypi.python.org/simple 
 
 ```
+
+# Dataset
+
+Download links:
+
 
 ## Data Preparation
 
@@ -40,7 +44,14 @@ You can also use the follows command to run baseline methods.
 
 CUDA_VISIBLE_DEVICES=2 python wandb_akt_train.py --use_wandb=0 --add_uuid=0 --fold=0 --emb_type=qid --d_ff=64   --dropout=0.1   --d_model=256 --num_attn_heads=4  --seed=42   --n_blocks=4  --learning_rate=0.0001  --dataset_name=assist2009 
 
-as for the Hyper Parameter for each baseline, you can find them in (to be added)
+
+
+## Citation
+If you use our code or find UKT useful in your work, please cite our paper as:
+```bib
+
+```
+
 
 ## Evaluate Your Model
 
@@ -51,3 +62,5 @@ python wandb_predict.py --save_dir=saved_model/YourModelPath
 ```
 
 --save_dir is the save path of your trained model that you can find in your training log
+
+##Baseline_Evaluation
