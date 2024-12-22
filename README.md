@@ -54,7 +54,7 @@ You can also use the follows command to run baseline methods.
 
 CUDA_VISIBLE_DEVICES=2 python wandb_akt_train.py --use_wandb=0 --add_uuid=0 --fold=0 --emb_type=qid --d_ff=64   --dropout=0.1   --d_model=256 --num_attn_heads=4  --seed=42   --n_blocks=4  --learning_rate=0.0001  --dataset_name=assist2009 
 
-Hyper Parameter of each baseline can be found at pykt github
+Hyper Parameter of each baseline can be found at(to be added)
 
 
 ## Citation
