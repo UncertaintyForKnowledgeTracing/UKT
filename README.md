@@ -1,5 +1,5 @@
 # [Uncertainty-aware Knowledge Tracing]
-<div align=center><img src="https://github.com/UncertaintyForKnowledgeTracing/UKT/edit/main/picture/model.pdf"/></div>
+<div align=center><img src="https://github.com/UncertaintyForKnowledgeTracing/UKT/blob/main/picture/model.pdf"/></div>
 ## Installation
 
 Use the following command to install pyKT:
