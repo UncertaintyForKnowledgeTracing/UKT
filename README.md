@@ -1,4 +1,4 @@
-# [Uncertainty-aware Knowledge Tracing]
+# [Uncertainty-aware Knowledge Tracing][https://arxiv.org/abs/2501.05415]
 <div align=center><img src="https://github.com/UncertaintyForKnowledgeTracing/UKT/blob/main/picture/model.png"/></div>
 ## Installation
 
@@ -60,7 +60,7 @@ Hyper Parameter of each baseline can be found at(to be added)
 ## Citation
 If you use our code or find UKT useful in your work, please cite our paper as:
 ```bib
-
+Cheng W, Du H, Li C, et al. Uncertainty-aware Knowledge Tracing[J]. arXiv preprint arXiv:2501.05415, 2025.
 ```
 
 
