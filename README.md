@@ -45,7 +45,7 @@ python data_preprocess.py --dataset_name=assist2009
 We provide the Hyper Parameter we use for training, you could run UKT as follows command 
 
 ```
-CUDA_VISIBLE_DEVICES=0 python wandb_ukt_train.py --fold=0 --emb_type=qid --loss3=0.5 --d_ff=64   --nheads=4 --dropout=0.1 --loss2=0.5 --final_fc_dim2=256 --loss1=0.5 --d_model=256 --num_attn_heads=4 --num_layers=2 --seed=42    --final_fc_dim=512 --n_blocks=4 --start=50 --learning_rate=0.0001  --dataset_name=slepemapy --emb_type='stoc_qid' --atten_type='w2'
+CUDA_VISIBLE_DEVICES=0 python wandb_ukt_train.py --fold=0 --emb_type=qid --loss3=0.5 --d_ff=64   --nheads=4 --dropout=0.1 --loss2=0.5 --final_fc_dim2=256 --loss1=0.5 --d_model=256 --num_attn_heads=4 --num_layers=2 --seed=42    --final_fc_dim=512 --n_blocks=4 --start=50 --learning_rate=0.0001  --dataset_name=assist2009 --emb_type='stoc_qid' --atten_type='w2'
 ```
 
 ## Run Baseline Model
